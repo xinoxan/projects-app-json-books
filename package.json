@@ -1,0 +1,16 @@
+{
+  "name": "excercise",
+  "version": "1.0.0",
+  "description": "app to retrieve data from a JSON, BOOKS, CATEGORIES, BOOKS IN CATEGORIES",
+  "main": "index.js",
+  "scripts": {
+    "gulp": "gulp"
+  },
+  "author": "carlos chang",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.18.12",
+    "gulp": "^3.9.1",
+    "gulp-markdown": "^1.2.0"
+  }
+}
