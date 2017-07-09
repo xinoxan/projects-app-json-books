@@ -5,7 +5,7 @@
 
 * Use of Bootstrap, jQuery and libraries such as animate.css and font-awesome
 
-* The ideas is to give the look & feel of how to display the JSON data that's why I choose Bootstrap to wrap it up in a responsive layout
+* The idea is to give the look & feel of how to display the JSON data that's why I choose Bootstrap to wrap it up in a responsive layout
 
 * I use the hover effect to display all the detailed info of each array within the categories
 
