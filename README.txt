@@ -13,6 +13,8 @@
 
 * A jQuery accordion was used in the interaction of the buttons.
 
+* A repetitive bg-img was displayed in every array as a demo if in further versions each JSON array has a customized image.
+
 * Version: 1.0
 
 * CARLOS CHANG
